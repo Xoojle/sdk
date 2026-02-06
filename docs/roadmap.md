@@ -1,0 +1,3 @@
+- Semantic search
+- AI news clustering
+- Extreme accessibility mode
