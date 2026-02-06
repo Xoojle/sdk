@@ -3,6 +3,7 @@
 **xoojle** is a search engine built specifically to provide clarity, accessibility, and modern news discovery.  
 Designed for people who want to understand what’s happening — not just scroll through noise.
 
+Official CA : 7zxfrZoxSzuLaskXufTu2CzG2xEHDW48AM6VoPRopump
 ---
 
 ## ✨ What is xoojle?
